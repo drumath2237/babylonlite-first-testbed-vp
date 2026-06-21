@@ -21,6 +21,7 @@
       }
     }
   },
+  "language_servers": ["!biome", "..."],
   "languages": {
     "CSS": {
       "format_on_save": "on",
