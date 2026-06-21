@@ -20,5 +20,8 @@
       "vite": "npm:@voidzero-dev/vite-plus-core@latest",
       "vitest": "npm:@voidzero-dev/vite-plus-test@latest"
     }
+  },
+  "dependencies": {
+    "@babylonjs/lite": "^1.2.0"
   }
 }
